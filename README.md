@@ -33,6 +33,7 @@ A web-based internal portal where employees can log tickets, track their progres
 ---
 
 ## Repository Structure & Artifacts
-* **[Product Requirements Document (PRD)](./docs/01_product_requirements.md):** Detailed functional and non-functional requirements, business rules, and user stories. *(Coming Soon)*
-* **System Architecture & Diagrams:** Use Case, Activity, and Entity-Relationship Diagrams (ERD). *(Coming Soon)*
-* **UI/UX Wireframes:** Low-fidelity mockups of key user dashboards. *(Coming Soon)*
+* **[1. Product Requirements Document (PRD)](./docs/01_product_requirements.md):** Detailed functional requirements, business rules (SLA Matrix), ticket workflows, and user stories with acceptance criteria.
+* **[2. System Architecture & Diagrams](./docs/02_system_diagrams.md):** Use Case, State Machine (Workflow), and Entity-Relationship Diagrams (ERD) rendered using Mermaid.js.
+* **[3. UI/UX Wireframes](./docs/03_wireframes.md):** Low-fidelity text-based layout specifications for core dashboards and ticket creation forms.
+* **[4. Software Requirements Specification (SRS)](./docs/04_software_requirements_specification.md):** Technical documentation including Data Dictionary and RESTful API endpoint specifications.
